@@ -307,3 +307,33 @@ GROUP BY
 ORDER BY
     1
 ```
+
+## 📝 Insights & Conclusions
+
+### This analysis of the Ethereum network provides several key insights:
+
+**1. Price Dynamics and Market Changes**   
+- The most significant ETH price increase occurred in 2021, while the largest drop happened in 2022.   
+- The minimum, average, and maximum ETH prices show high volatility, reflecting the cyclical nature of the market.
+  
+**2. User Activity and Trading Volumes**  
+- The number of unique addresses in the network has grown to over 222 million, confirming the scale of the Ethereum ecosystem.   
+- Trading volumes on DEX have significantly increased since 2020, indicating a gradual shift of liquidity from CEX.   
+- The largest CEX by volume are Binance, Paxos, Bitfinex, and Coinbase.
+  
+**3. Impact of EIP-1559 on the Network**  
+- A total of 4.57 million ETH has been burned through the EIP-1559 mechanism, affecting Ethereum's issuance policy.   
+- The volume of ETH burned varies from year to year, reflecting network activity and the level of smart contract usage.
+  
+**4. Transaction Errors**   
+- A total of 2.95 million transaction errors (~0.7% of all operations) were recorded, which is an acceptable rate for a blockchain network of this scale.   
+- The most common transaction errors remain insufficient balance, incorrect input data, and exceeding the gas limit.
+
+### Overall Conclusion
+
+This project highlights the dynamic nature of the Ethereum network, showcasing its growth, challenges, and opportunities. Through the analysis of price trends, trading volumes, network activity, gas fees, ETH burn metrics, and transaction errors, we gain a comprehensive understanding of Ethereum's ecosystem. Key takeaways include the increasing adoption of decentralized finance (DeFi), the impact of EIP-1559 on ETH supply, and the importance of monitoring network reliability. These insights are valuable for analysts, investors, and blockchain enthusiasts aiming to navigate the evolving crypto landscape.
+
+## Future Improvements
+
+- Add more data sources (e.g., NFTs, Layer 2).
+- Compare Ethereum with other blockchains.
