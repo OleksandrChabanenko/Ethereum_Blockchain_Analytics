@@ -156,7 +156,8 @@ GROUP BY
 ORDER BY
     2 DESC
 
---SELECT
+--Yearly Inflows & Outflows on Ethereum CEX
+    SELECT
     EXTRACT(YEAR FROM block_time) AS year,
     SUM(amount_usd) FILTER (WHERE flow_type = 'Inflow') AS inflow,
     SUM(amount_usd) FILTER (WHERE flow_type = 'Outflow') AS outflow
