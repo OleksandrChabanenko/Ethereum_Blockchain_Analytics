@@ -1,5 +1,27 @@
-# Ethereum-Blockchain-Analytics
-Comprehensive dashboard for monitoring Ethereum blockchain metrics, financial flows, and network activity in real-time.
+# Comprehensive Ethereum Network Overview
+This project provides a comprehensive analysis of financial flows and activity on the Ethereum network, leveraging databases from **[Dune Analytics](https://dune.com/)**. The dashboard includes key metrics such as CEX financial flows, DEX trading volume, ETH price dynamics, network activity, transaction fees (Gas Fees), total ETH burned after EIP-1559, and transaction error analysis. The goal of the project is to offer an analytical tool for exploring Ethereum's financial trends, which can be valuable for traders, analysts, and blockchain researchers.
+
+### 🔗 **Live Dashboard: [View on Dune](https://dune.com/chabanenkooleksandr/comprehensive-ethereum-network-overview)**
+
+## Objectives 
+- **Analyze Ethereum Price Trends**: Track historical ETH prices, annual changes, and percentage fluctuations to understand market dynamics.
+- **Evaluate DEX Trading Volumes**: Examine yearly trading volumes on decentralized exchanges (DEX) to identify market trends and leaders.
+- **Assess CEX Financial Flows**: Analyze incoming and outgoing funds on centralized exchanges (CEX) to understand capital movements.
+- **Measure Network Activity**: Track the number of unique transaction senders and receivers to gauge user engagement and network growth.
+- **Monitor Gas Fees**: Provide insights into current transaction costs in GWEI and their impact on network usage.
+- **Track ETH Burn Metrics**: Quantify the total ETH burned since EIP-1559 and analyze yearly burn dynamics.
+- **Investigate Transaction Errors**: Identify common errors in Ethereum transactions and calculate error rates to better understand network behavior.
+
+## Data Sources  
+This project uses data from the following tables on the **[Dune Analytics](https://dune.com/data)** platform:  
+- **prices.usd**: Historical asset prices in USD.  
+- **ethereum.transactions**: Data on Ethereum network transactions.  
+- **ethereum.blocks**: Information about Ethereum blocks, including base fees.
+- **ethereum.traces**: Detailed data on internal calls (traces) within Ethereum transactions. 
+- **dex.trades**: Data on decentralized exchange (DEX) trades.  
+- **cex.flows**: Asset flows on centralized exchanges (CEX).  
+
+## Queries and Visualizations
 
 ![image](https://github.com/user-attachments/assets/c8fa75d7-c9cd-4fce-862f-e5018e8eb2a8)
 
