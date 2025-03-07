@@ -1,4 +1,4 @@
-# Comprehensive Ethereum Network Overview
+# 📈 Comprehensive Ethereum Network Overview
 This project provides a comprehensive analysis of financial flows and activity on the Ethereum network, leveraging databases from **[Dune Analytics](https://dune.com/)**. The dashboard includes key metrics such as CEX financial flows, DEX trading volume, ETH price dynamics, network activity, transaction fees (Gas Fees), total ETH burned after EIP-1559, and transaction error analysis. The goal of the project is to offer an analytical tool for exploring Ethereum's financial trends, which can be valuable for traders, analysts, and blockchain researchers.
 
 ### 🔗 **Live Dashboard: [View on Dune](https://dune.com/chabanenkooleksandr/comprehensive-ethereum-network-overview)**
