@@ -22,9 +22,12 @@ This project uses data from the following tables on the **[Dune Analytics](https
 - **cex.flows**: Asset flows on centralized exchanges (CEX).
 
 ## Usage
-> Visit the **[Dune Dashboard](https://dune.com/chabanenkooleksandr/comprehensive-ethereum-network-overview)** to interact with visualizations and insights.   
-> Click **Run** on the dashboard page to update the data and get the most recent information.   
-> All SQL queries are available in the **[queries.sql](queries.sql)** file.
+To explore the dashboard and interact with the visualizations:  
+
+**1.** Visit the **[Dune Dashboard](https://dune.com/chabanenkooleksandr/comprehensive-ethereum-network-overview)** to interact with visualizations and insights.   
+**2.** Click **Run** on the dashboard page to update the data and get the most recent information.   
+
+All SQL queries used in this project are available in the **[queries.sql](queries.sql)** file for further analysis or customization.
 
 ## Queries and Visualizations
 
