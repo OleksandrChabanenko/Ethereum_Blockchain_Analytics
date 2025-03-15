@@ -31,7 +31,7 @@ All SQL queries used in this project are available in the **[queries.sql](querie
 
 ## Queries and Visualizations
 
-![image](https://github.com/user-attachments/assets/c8fa75d7-c9cd-4fce-862f-e5018e8eb2a8)
+![eth_price_gas_burn_users.png](Images/eth_price_gas_burn_users.png)  
 
 ### Ethereum Price Tracker
 ```SQL
