@@ -81,8 +81,7 @@ FROM
     ethereum.transactions AS t
 ```
 
-
-![image](https://github.com/user-attachments/assets/f0e41d7d-7c48-4675-bc62-7c7165043fdf)
+![eth_yearly_price_changes.png](Images/eth_yearly_price_changes.png)  
 
 ### ETH Price Evolution by Year
 ```SQL
