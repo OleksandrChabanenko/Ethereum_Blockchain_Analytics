@@ -134,8 +134,7 @@ SELECT
 FROM
     yearly_eth_prices
 ```
-
-![image](https://github.com/user-attachments/assets/86977a08-b730-4590-ae44-c54ebadea6c8)
+![eth_price_min_max_median_yearly.png](Images/eth_price_min_max_median_yearly.png) 
 
 ### Yearly Ethereum Price Min, Max & Median
 ```SQL
