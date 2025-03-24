@@ -153,8 +153,7 @@ GROUP BY
 ORDER BY
     1
 ```
-
-![image](https://github.com/user-attachments/assets/95f65d2b-b839-47ca-af76-7af18e0f2504)
+![eth_unique_users_burned_yearly.png](Images/eth_unique_users_burned_yearly.png)  
 
 ### Ethereum Unique User Dynamics by Year
 ```SQL
