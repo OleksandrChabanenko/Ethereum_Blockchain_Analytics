@@ -186,8 +186,7 @@ GROUP BY
 ORDER BY
     1
 ```
-
-![image](https://github.com/user-attachments/assets/8967713d-c509-4d8e-9780-7886d83cc2a6)
+![dex_volume_yearly_projects.png](Images/dex_volume_yearly_projects.png) 
 
 ### Ethereum DEX Trading Volume Dynamics by Year
 ```SQL
