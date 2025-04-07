@@ -218,7 +218,7 @@ ORDER BY
     2 DESC
 ```
 
-![image](https://github.com/user-attachments/assets/f92e1d0f-598d-4d7c-94bb-5514b7c7bb76)
+![cex_flows_yearly_and_platforms.png](Images/cex_flows_yearly_and_platforms.png)   
 
 ### Yearly Inflows & Outflows on Ethereum CEX
 ```SQL
