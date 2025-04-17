@@ -249,7 +249,7 @@ ORDER BY
     2 DESC
 ```
 
-![image](https://github.com/user-attachments/assets/8c1777e9-1312-4c9e-beb4-915af5ce798c)
+![eth_error_analysis.png](Images/eth_error_analysis.png)
 
 
 ### Top 3 Ethereum Transaction Errors in 2025
