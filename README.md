@@ -13,7 +13,7 @@ This project provides a comprehensive analysis of financial flows and activity o
 - **Investigate Transaction Errors**: Identify common errors in Ethereum transactions and calculate error rates to better understand network behavior.
 
 ## Data Sources  
-This project uses data from the following tables on the **[Dune Analytics](https://dune.com/data)** platform:  
+The project uses data from the following tables on the **[Dune Analytics](https://dune.com/data)** platform:  
 - **prices.usd**: Historical asset prices in USD.  
 - **ethereum.transactions**: Data on Ethereum network transactions.  
 - **ethereum.blocks**: Information about Ethereum blocks, including base fees.
